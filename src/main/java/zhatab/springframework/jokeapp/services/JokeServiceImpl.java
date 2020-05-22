@@ -10,6 +10,7 @@ public class JokeServiceImpl implements JokeService {
 
     public JokeServiceImpl(ChuckNorrisQuotes chuckNorrisQuotes) {
         this.chuckNorrisQuotes = chuckNorrisQuotes;
+
     }
 
     @Override
