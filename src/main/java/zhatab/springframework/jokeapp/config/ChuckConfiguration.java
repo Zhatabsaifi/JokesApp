@@ -10,4 +10,5 @@ public class ChuckConfiguration {
         return new ChuckNorrisQuotes();
     }
 }
+
 // now spring doesn't look it like a configuration.
